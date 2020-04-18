@@ -37,8 +37,8 @@ bower_components
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
-# Dependency directories CHANGE
-node_modules
+# Dependency directories
+node_modules/
 jspm_packages/
 
 # Snowpack dependency directory (https://snowpack.dev/)
@@ -87,8 +87,6 @@ dist
 .cache/
 # Comment in the public line in if your project uses Gatsby and not Next.js
 # https://nextjs.org/blog/next-9-1#public-directory-support
-#NODE_MODULES BY FILA
-node_modules
 # public
 
 # vuepress build output
